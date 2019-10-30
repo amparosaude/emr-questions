@@ -1,8 +1,8 @@
 const questions = {
   encounterReason: 'que_ck1je8q3n00007zpqb6uk12en',
   clinicalBackground: 'que_ck1je8q3p00017zpq5kyf6ix7',
-  surgicalBackground: 'que_ck23msu5i0000sxpq29io2w3e',
-  familyBackground: 'que_ck1je8q3p00047zpq779jfdmy',
+  surgeries: 'que_ck23msu5i0000sxpq29io2w3e',
+  familyHistory: 'que_ck1je8q3p00047zpq779jfdmy',
   habits: 'que_ck1je8q3p00027zpqfkd8adsi',
   allergies: 'que_ck1je8q3p00037zpq0l7pf3xt',
   vaccines: 'que_ck1je8q3p00057zpq9f9w8txm',
@@ -18,6 +18,7 @@ const questions = {
   historyTreatments: 'que_ck1je8q3p000f7zpq02kgfbvz',
   medicalReferral: 'que_ck1je8q3p000g7zpq7qdi9mxy',
   careLines: 'que_ck1je8q3p000h7zpq387j36l9',
+  reminders: 'que_ck1je8q3p000g7zpq631lj348',
 }
 
 exports.questions = questions
