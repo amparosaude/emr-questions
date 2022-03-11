@@ -23,6 +23,7 @@ P | Novas prescrições               |que_ck1je8q3p000e7zpqc0k4eh67| Memed
 P | Tratamentos em andamento        |que_ck1je8q3p000f7zpq02kgfbvz| HistoryPrescription
 P | Encaminhamentos                 |que_ck1je8q3p000g7zpq7qdi9mxy| MedicalReferral
 P | Linhas de cuidado               |que_ck1je8q3p000h7zpq387j36l9| InputCareLine
+P | Intervenções                    |que_cl0bjz3mc0000aqdq0k6033c6| InputCareLine
 
 ## Highlight Exams
 
