@@ -20,6 +20,12 @@ const questions = {
   careLines: 'que_ck1je8q3p000h7zpq387j36l9',
   reminders: 'que_ck1je8q3p000g7zpq631lj348',
   interventions: 'que_cl0bjz3mc0000aqdq0k6033c6',
+  medicalCertificate: 'que_cl115ltwk00048bdq1lfo8pt0',
+  MedicalAccompaniment: 'que_cl115ltwk00058bdq6km7hzwk',
+  alertSignals: 'que_cl115ltwk00038bdqhga7h6ya',
+  principalComplaint: 'que_cl115ltwg00008bdq349wctuh',
+  hpma: 'que_cl115ltwj00018bdq7eei7njc',
+  videoCallConditions: 'que_cl115ltwk00028bdq7lt6fy6v',
 }
 
 exports.questions = questions
