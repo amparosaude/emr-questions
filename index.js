@@ -26,6 +26,7 @@ const questions = {
   principalComplaint: 'que_cl115ltwg00008bdq349wctuh',
   hpma: 'que_cl115ltwj00018bdq7eei7njc',
   videoCallConditions: 'que_cl115ltwk00028bdq7lt6fy6v',
+  orientations: 'que_cl1v90seo0000bndq4ws9d51o',
 }
 
 exports.questions = questions
