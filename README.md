@@ -19,11 +19,12 @@ A | Histórico de condições ativas   |que_ck1je8q3p000a7zpq3ije2h4u| HistoryCo
 A | Informações complementares (A)  |que_ck1je8q3p000b7zpq2qdr37yt| InputText
 P | Solicitação de exames           |que_ck1je8q3p000c7zpqasx23fet| AutoSelectMultiple
 P | Historico de solicitações       |que_ck1je8q3p000d7zpq07zubjf9| ExamRequestHistory
-P | Novas prescrições               |que_ck1je8q3p000e7zpqc0k4eh67| Memed
+P | Novas prescrições               |que_ck1je8q3p000e7zpqc0k4eh67| Mevo
 P | Tratamentos em andamento        |que_ck1je8q3p000f7zpq02kgfbvz| HistoryPrescription
 P | Encaminhamentos                 |que_ck1je8q3p000g7zpq7qdi9mxy| MedicalReferral
 P | Linhas de cuidado               |que_ck1je8q3p000h7zpq387j36l9| InputCareLine
 P | Intervenções                    |que_cl0bjz3mc0000aqdq0k6033c6| InputCareLine
+P | Relatório Médico                |que_clesqz1p10000f5zscymw1y1n| InputText
 
 ## Highlight Exams
 

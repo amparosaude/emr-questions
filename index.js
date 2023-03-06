@@ -27,6 +27,7 @@ const questions = {
   hpma: 'que_cl115ltwj00018bdq7eei7njc',
   videoCallConditions: 'que_cl115ltwk00028bdq7lt6fy6v',
   orientations: 'que_cl1v90seo0000bndq4ws9d51o',
+  medicalReport: 'que_clesqz1p10000f5zscymw1y1n',
 }
 
 exports.questions = questions
