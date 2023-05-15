@@ -28,6 +28,8 @@ const questions = {
   videoCallConditions: 'que_cl115ltwk00028bdq7lt6fy6v',
   orientations: 'que_cl1v90seo0000bndq4ws9d51o',
   medicalReport: 'que_clesqz1p10000f5zscymw1y1n',
+  alcoholTest: 'que_clfr2mjz400006tyeh4qm12s2',
+  nicotineTest: 'que_clfr2mjzb00016tyeggot2boi',
 }
 
 exports.questions = questions
