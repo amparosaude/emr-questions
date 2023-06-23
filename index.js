@@ -30,6 +30,7 @@ const questions = {
   medicalReport: 'que_clesqz1p10000f5zscymw1y1n',
   alcoholTest: 'que_clfr2mjz400006tyeh4qm12s2',
   nicotineTest: 'que_clfr2mjzb00016tyeggot2boi',
+  depressionTest: 'que_clfr2mjzb00026tye1frrgnd9',
 }
 
 exports.questions = questions
