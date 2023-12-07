@@ -32,6 +32,8 @@ const questions = {
   alcoholTest: 'que_clfr2mjz400006tyeh4qm12s2',
   nicotineTest: 'que_clfr2mjzb00016tyeggot2boi',
   depressionTest: 'que_clfr2mjzb00026tye1frrgnd9',
+  lifeGoals: 'que_clpa3drkq0000sfzsb91bhrjk',
+  goalManagement: 'que_clpa4rvxt00006wzs3tfagkg3',
 }
 
 exports.questions = questions
