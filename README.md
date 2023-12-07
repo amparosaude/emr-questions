@@ -25,6 +25,8 @@ P | Encaminhamentos                 |que_ck1je8q3p000g7zpq7qdi9mxy| MedicalRefer
 P | Linhas de cuidado               |que_ck1je8q3p000h7zpq387j36l9| InputCareLine
 P | Intervenções                    |que_cl0bjz3mc0000aqdq0k6033c6| InputCareLine
 P | Relatório Médico                |que_clesqz1p10000f5zscymw1y1n| InputText
+RACE | Metas de Vida                |que_clpa3drkq0000sfzsb91bhrjk| LifeGoals
+RACE | Objetivos                    |que_clpa4rvxt00006wzs3tfagkg3| GoalManagement
 
 ## Highlight Exams
 
